@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/0*H-XMw2Pgg_klgppC.gif">
 - 🌱 I’m currently learning **tailwind, react**
 
-- 📫 How to reach me **abhishekthapa5341**
+- 📫 How to reach me **abhishekthapa5341@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
