@@ -1,96 +1,79 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h1 align="center">✨ Hi, I'm Abhishek ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="waving hand"/>
-</p>
-
-<p align="center">
-  🚀 Backend & Full-Stack Developer | MERN | Next.js | TypeScript | Java | C++ | Python  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="coding gif"/>
-</p>
-
----
-
-<h2>🌟 Tech Stack</h2>
-
-<p align="center">
-  <!-- Languages -->
-  <a href="https://www.cplusplus.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=I+am+Abhishek+👨‍💻;Full+Stack+Developer+🚀;MERN+%7C+Next.js+%7C+TypeScript;C%2B%2B+%7C+Java+%7C+Python;Always+curious+and+learning+new+things+✨" alt="Typing Animation"/>
   </a>
 </p>
 
 <p align="center">
-  <!-- Web Tech -->
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-</p>
-
-<p align="center">
-  <!-- Databases -->
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300px" alt="coding gif"/>
 </p>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,react,nodejs,express,nextjs,postgres,mongodb&perline=6" />
 </p>
 
 ---
 
-<h2>📫 Connect with Me</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-E-VECTOR&show_icons=true&theme=tokyonight" height="180" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEK-E-VECTOR&theme=tokyonight" height="180" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-E-VECTOR&layout=compact&theme=tokyonight" height="180" alt="langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHISHEK-E-VECTOR&theme=onestar&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEK-E-VECTOR&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+---
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABHISHEK-E-VECTOR/ABHISHEK-E-VECTOR/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-thapa-02843b23b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
-  <a href="mailto:abhishek@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:abhishekthapa5341@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+  <a href="https://github.com/ABHISHEK-E-VECTOR" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
   </a>
 </p>
 
 ---
 
+<h2 align="center">✨ Cute Pal Animations ✨</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120px" alt="cute cat typing"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120px" alt="funny cat"/>
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="120px" alt="doggo"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ABHISHEK-E-VECTOR&label=Profile+Views&color=ff69b4&style=flat-square" alt="views"/>
+</p>
+
