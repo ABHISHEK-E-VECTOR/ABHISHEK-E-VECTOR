@@ -41,13 +41,6 @@
 
 ---
 
-<h2 align="center">🐍 My Contribution Snake</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABHISHEK-E-VECTOR/ABHISHEK-E-VECTOR/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 <h2 align="center">📫 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-thapa-02843b23b/" target="_blank">
@@ -63,17 +56,9 @@
 
 ---
 
-<h2 align="center">✨ Cute Pal Animations ✨</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120px" alt="cute cat typing"/>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120px" alt="funny cat"/>
-  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="120px" alt="doggo"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABHISHEK-E-VECTOR&label=Profile+Views&color=ff69b4&style=flat-square" alt="views"/>
 </p>
+
+
 
